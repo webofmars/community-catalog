@@ -3,6 +3,7 @@
   name: "Gandi DNS"
   version: "v0.1.0"
   description: "Rancher External DNS service powered by Gandi. Requires Rancher version v1.1.0"
+  maintainer: "Frederic Leger <contact@webofmars.com>"
   minimum_rancher_version: v1.6.0-rc1
   #maximum_rancher_version:
   questions:
